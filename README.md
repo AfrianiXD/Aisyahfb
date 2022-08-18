@@ -14,3 +14,6 @@
 - `git clone https://github.com/AfrianiXD/Aisyahfb`
 - `cd Aisyahfb`
 - `python Aisyahfb.py`
+
+
+ ```This Tools is Free Enjoy ```</br>
